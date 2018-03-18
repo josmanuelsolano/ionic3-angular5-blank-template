@@ -6,7 +6,7 @@ This template has been created trying to applying [Overall structural guidelines
 ## Pre Installation
 before you clone or download this project you must have installed:
 - [NodeJs](https://nodejs.org/en/)
-  platforms tools for development
+- platforms tools for development:
   - [Android](https://cordova.apache.org/docs/en/7.x/guide/platforms/android/)
   - [iOS](https://cordova.apache.org/docs/en/7.x/guide/platforms/ios/)  
 - [Ionic](https://ionicframework.com/getting-started)
